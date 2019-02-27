@@ -1,0 +1,24 @@
+h1 {
+  color: white;
+}
+
+p {
+  color: white;
+}
+
+div {
+  background-color: red;
+  width: 70%;
+  height: 100;
+  border: 5px dashed black;
+  padding: 20px;
+  margin: 20px;
+}
+
+.kittyFooFoo {
+  background-color: white;
+}
+
+body {
+  background-color: green;
+}
